@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  name: 'online resume of Lu Siqing',
+  domain: 'notion.site',
+  author: 'Siqing Lu',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
