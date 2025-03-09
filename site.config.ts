@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Siqing Lu',
 
   // open graph metadata (optional)
-  description: 'My Blogs.',
+  description: 'My Space.',
 
-  // social usernames (optional)
-  twitter: 'chaodit',
-  github: 'chaodit',
-  linkedin: 'Chao Di Tang',
+  // // social usernames (optional)
+  // twitter: 'chaodit',
+  // github: 'chaodit',
+  // linkedin: 'Chao Di Tang',Space
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
